@@ -41,7 +41,7 @@ The end-to-end pipeline includes segmentation, patch extraction, species labelin
 ### 🗺️ AGB Distribution Map
 
 <p align="center">
-  <img src="images/AGB_MapLatest.png" width="600"/>
+  <img src="images/AGB%20MapLatest-1.png" width="600"/>
 </p>
 
 ### 🌳 Tree Species Classification Map
