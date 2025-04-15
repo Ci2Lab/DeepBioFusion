@@ -28,6 +28,7 @@ Accurate AGB estimation plays a crucial role in forest carbon accounting and eco
 The end-to-end pipeline includes segmentation, patch extraction, species labeling, and biomass estimation using a multi-branch CNN.
 
 ### 📌 Methodology Diagram
+*This diagram summarizes the complete DeepBioFusion pipeline — from LiDAR segmentation to AGB prediction using CNNs and multi-modal fusion.*
 
 <p align="center">
   <img src="images/MethodologyDeepBioFusion%20Diagram-1.png" width="700"/>
