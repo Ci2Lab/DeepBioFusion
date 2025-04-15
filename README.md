@@ -38,18 +38,21 @@ The end-to-end pipeline includes segmentation, patch extraction, species labelin
 ## 🧬 Visual Samples from the Study
 
 ### 🗺️ AGB Distribution Map
+*Estimated AGB values are visualized spatially, reflecting biomass distribution across a Norwegian forested region.*
 
 <p align="center">
   <img src="images/AGB%20MapLatest-1.png" width="600"/>
 </p>
 
 ### 🌳 Tree Species Classification Map
+*Each individual tree is classified into species groups (e.g., Spruce, Pine, Deciduous), forming the categorical input for our model.*
 
 <p align="center">
   <img src="images/plot_zoomConvex.png" width="600"/>
 </p>
 
 ### 🌲 Digital Terrain Model vs Canopy Height Model
+*LiDAR-derived terrain and canopy height models used for initial tree crown segmentation and quality assessment.*
 
 <p align="center">
   <img src="images/dtm_chm_final-1.png" width="600"/>
@@ -58,7 +61,7 @@ The end-to-end pipeline includes segmentation, patch extraction, species labelin
 
 
 ### 📊 Actual vs Predicted Biomass
-
+*Scatter plot comparing predicted biomass values with field-based measurements. The high correlation supports model validity.*
 <p align="center">
   <img src="images/actual_vs_predicted_biomass-1.png" width="600"/>
 </p>
