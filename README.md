@@ -71,6 +71,6 @@ The end-to-end pipeline includes segmentation, patch extraction, species labelin
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/DeepBioFusion.git
+git clone https://github.com/Ci2Lab/DeepBioFusion.git
 cd DeepBioFusion
 pip install -r requirements.txt
