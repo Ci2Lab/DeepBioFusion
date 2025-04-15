@@ -31,7 +31,7 @@ The end-to-end pipeline includes segmentation, patch extraction, species labelin
 ### 📌 Methodology Diagram
 
 <p align="center">
-  <img src="images/MethodologyDeepBioFusion_Diagram-1.png" width="700"/>
+  <img src="images/MethodologyDeepBioFusion%20Diagram-1.png" width="700"/>
 </p>
 
 ---
