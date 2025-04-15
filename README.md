@@ -1,4 +1,4 @@
-# # 🌲 DeepBioFusion: Tree-Level Above Ground Biomass (AGB) Estimation using Multi-Modal Deep Learning
+# 🌲 DeepBioFusion: Tree-Level Above Ground Biomass (AGB) Estimation using Multi-Modal Deep Learning
 
 This repository contains the complete code and supporting material for our study on individual tree-level estimation of Above Ground Biomass (AGB) using multi-modal remote sensing data and deep learning. The proposed model does **not rely on LiDAR data for prediction**, making it suitable for operational scalability across large forested regions.
 
@@ -31,38 +31,42 @@ The end-to-end pipeline includes segmentation, patch extraction, species labelin
 ### 📌 Methodology Diagram
 
 <p align="center">
-  <img src="images/methodology_diagram.png" width="700"/>
+  <img src="images/MethodologyDeepBioFusion_Diagram.png" width="700"/>
 </p>
-
-
-
 
 ---
 
-## 🧬 Visual Samples from the Paper
+## 🧬 Visual Samples from the Study
 
 ### 🗺️ AGB Distribution Map
 
 <p align="center">
-  <img src="images/agb_map.png" width="600"/>
+  <img src="images/AGB_MapLatest.png" width="600"/>
 </p>
 
 ### 🌳 Tree Species Classification Map
 
 <p align="center">
-  <img src="images/species_distribution.png" width="600"/>
+  <img src="images/plot_zoomConvex.png" width="600"/>
 </p>
 
-### 📉 Model Performance Chart
+### 🌲 Digital Terrain Model vs Canopy Height Model
 
 <p align="center">
-  <img src="images/mae_rmse_chart.png" width="600"/>
+  <img src="images/dtm_chm_final.png" width="600"/>
 </p>
 
+### 📈 Model Training Performance
 
+<p align="center">
+  <img src="images/training_validation_loss.png" width="600"/>
+</p>
 
+### 📊 Actual vs Predicted Biomass
 
-Our model shows strong performance across various tree species categories, and outperforms several existing approaches that rely heavily on field-collected or LiDAR data.
+<p align="center">
+  <img src="images/actual_vs_predicted_biomass.png" width="600"/>
+</p>
 
 ---
 
