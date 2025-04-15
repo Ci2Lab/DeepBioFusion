@@ -56,11 +56,7 @@ The end-to-end pipeline includes segmentation, patch extraction, species labelin
   <img src="images/dtm_chm_final-1.png" width="600"/>
 </p>
 
-### 📈 Model Training Performance
 
-<p align="center">
-  <img src="images/training_validation_loss-1.png" width="600"/>
-</p>
 
 ### 📊 Actual vs Predicted Biomass
 
