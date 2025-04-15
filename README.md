@@ -19,7 +19,6 @@ Accurate AGB estimation plays a crucial role in forest carbon accounting and eco
 - 🚫 **LiDAR-free prediction**: Model predicts biomass without needing LiDAR input at inference.
 - 🌐 **Scalable design**: Adaptable to any region with satellite access.
 - 🌲 **Individual tree resolution**: Focused on single-tree level predictions.
-- 📉 **High accuracy**: Achieved **MAE ≈ 1.2 kg** and **RMSE ≈ 1.5 kg** per tree.
 - 🔁 **Reproducible workflow**: Includes complete pipeline for training and evaluation.
 
 ---
