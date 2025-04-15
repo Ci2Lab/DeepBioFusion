@@ -53,19 +53,19 @@ The end-to-end pipeline includes segmentation, patch extraction, species labelin
 ### 🌲 Digital Terrain Model vs Canopy Height Model
 
 <p align="center">
-  <img src="images/dtm_chm_final.png" width="600"/>
+  <img src="images/dtm_chm_final-1.png" width="600"/>
 </p>
 
 ### 📈 Model Training Performance
 
 <p align="center">
-  <img src="images/training_validation_loss.png" width="600"/>
+  <img src="images/training_validation_loss-1.png" width="600"/>
 </p>
 
 ### 📊 Actual vs Predicted Biomass
 
 <p align="center">
-  <img src="images/actual_vs_predicted_biomass.png" width="600"/>
+  <img src="images/actual_vs_predicted_biomass-1.png" width="600"/>
 </p>
 
 ---
